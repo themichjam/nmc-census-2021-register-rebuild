@@ -2,7 +2,7 @@
 
 [![OSF](https://img.shields.io/badge/OSF-project-blue)](https://osf.io/5kfn4/)
 [![Zenodo](https://img.shields.io/badge/Zenodo-pending-lightgrey)]()
-[![Environment](https://img.shields.io/badge/environment-ONS%20SRS-lightgrey)]()
+[![Environment](https://img.shields.io/badge/environment-ONS%20SRS-red)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Disclosure-safe R code for rebuilding the March 2021 Nursing and Midwifery Council (NMC) Register extract within the ADR UK NMC–Census 2021 linked dataset (https://doi.org/10.57906/04mq-bj53).
