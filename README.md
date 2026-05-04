@@ -1,9 +1,9 @@
 # NMC-Census 2021 Register Rebuild
 
 [![OSF](https://img.shields.io/badge/OSF-project-blue)](https://osf.io/5kfn4/)
-[![Zenodo](https://img.shields.io/badge/Zenodo-pending-lightgrey)]()
+[![DOI](https://zenodo.org/badge/1228761783.svg)](https://doi.org/10.5281/zenodo.20023960)
 [![Environment](https://img.shields.io/badge/environment-ONS%20SRS-red)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 Disclosure-safe R code for rebuilding the March 2021 Nursing and Midwifery Council (NMC) Register extract within the ADR UK NMC–Census 2021 linked dataset (https://doi.org/10.57906/04mq-bj53).
 
