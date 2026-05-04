@@ -1,6 +1,6 @@
 # NMC-Census 2021 Register Rebuild
 
-[![OSF](https://img.shields.io/badge/OSF-project-blue)](https://osf.io/5kfn4/)
+[![OSF](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2F5KFN4-blue)](https://doi.org/10.17605/OSF.IO/5KFN4)
 [![DOI](https://zenodo.org/badge/1228761783.svg)](https://doi.org/10.5281/zenodo.20023960)
 [![Environment](https://img.shields.io/badge/environment-ONS%20SRS-red)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
