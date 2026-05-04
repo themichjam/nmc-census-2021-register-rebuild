@@ -80,6 +80,7 @@ Jamieson M & Atherton I. NMC-Census 2021 Register Rebuild [Software]. Zenodo; 20
   doi       = {10.5281/zenodo.20023960},
   url       = {https://doi.org/10.5281/zenodo.20023960}
 }
+```
 
 ## Software requirements
 
