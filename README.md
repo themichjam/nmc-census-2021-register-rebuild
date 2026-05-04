@@ -35,11 +35,8 @@ This project uses a three-part open science structure:
 - **GitHub**: live development repository.
 - **Zenodo**: fixed, archived, DOI-minted code release.
 
-The OSF project page is available at:
-
-https://osf.io/5kfn4/
-
-The Zenodo archive will be added after the first GitHub release.
+Zenodo DOI: https://doi.org/10.5281/zenodo.20023960  
+OSF DOI: https://doi.org/10.17605/OSF.IO/5KFN4
 
 ## Data access
 
