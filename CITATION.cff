@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived Zenodo release and the OSF project."
+title: "NMC-Census 2021 Register Rebuild"
+type: software
+authors:
+  - family-names: "Jamieson"
+    given-names: "Michelle"
+  - family-names: "Atherton"
+    given-names: "Iain"
+abstract: "Disclosure-safe R code for rebuilding the March 2021 Nursing and Midwifery Council Register extract within the ADR UK NMC-Census 2021 linked dataset."
+keywords:
+  - NMC Register
+  - Census 2021
+  - ADR UK
+  - ONS Secure Research Service
+  - administrative data
+  - data linkage
+  - nursing workforce
+  - reproducible research
+  - R
+license: MIT
+repository-code: "https://github.com/themichjam/nmc-census-2021-register-rebuild"
+url: "https://osf.io/5kfn4/"
+version: "1.0.0"
+date-released: "2026-05-04"
