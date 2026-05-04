@@ -60,6 +60,27 @@ To reproduce the rebuild, users must:
 - `.zenodo.json` — Zenodo metadata used for DOI-minted releases.
 - `.gitignore` — exclusion rules to prevent restricted data and local files being committed.
 
+## Citation
+
+Please cite both the archived Zenodo software release and the OSF project record when using this repository.
+
+The **Zenodo DOI** should be used when citing the exact version of the code used in analysis. The **OSF DOI** should be used when citing the broader project documentation and open research record.
+
+### Software citation
+
+Jamieson M & Atherton I. NMC-Census 2021 Register Rebuild [Software]. Zenodo; 2026. doi:10.5281/zenodo.20023960
+
+```bibtex
+@software{jamieson_atherton_2026_nmc_rebuild,
+  author    = {Jamieson, Michelle and Atherton, Iain},
+  title     = {NMC-Census 2021 Register Rebuild},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {1.0.0},
+  doi       = {10.5281/zenodo.20023960},
+  url       = {https://doi.org/10.5281/zenodo.20023960}
+}
+
 ## Software requirements
 
 The script is written in R and uses tidyverse-style data manipulation.
