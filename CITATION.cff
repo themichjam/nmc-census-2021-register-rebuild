@@ -18,9 +18,23 @@ keywords:
   - nursing workforce
   - reproducible research
   - R
+  - data quality
+  - register data
+  - England and Wales
 license: MIT
 repository-code: "https://github.com/themichjam/nmc-census-2021-register-rebuild"
 url: "https://osf.io/5kfn4/"
 version: "1.0.0"
 date-released: "2026-05-04"
 doi: "10.5281/zenodo.20023960"
+references:
+  - type: generic
+    title: "NMC-Census 2021 Register Rebuild"
+    authors:
+      - family-names: "Jamieson"
+        given-names: "Michelle"
+      - family-names: "Atherton"
+        given-names: "Iain"
+    doi: "10.17605/OSF.IO/5KFN4"
+    url: "https://osf.io/5kfn4/"
+    notes: "OSF project record and documentation for the software repository."
